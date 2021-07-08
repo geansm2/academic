@@ -1,7 +1,8 @@
 #About
+
 Programa ler o arquivo romance.txt que contém uma pequena obra literária.
-Após a leitura do arquivo, o programa gera o arquivo histograma.csv,
-contendo a contagem de ocorrências das letras do alfabeto que ocorrem como 1ª letra das palavras no texto.
+Após a leitura do arquivo, gera o arquivo histograma.csv, contendo a contagem
+de ocorrências das letras do alfabeto que ocorrem como 1ª letra das palavras no texto.
 Nesta contagem, é DESCONSIDERADAS palavras contendo apenas números (com ou sem pontuações) e as palavras que estão
 indicadas no arquivo excessoes.txt. O arquivo histograma.csv tem como conteúdo linhas contendo uma
 letra do alfabeto e sua respectiva contagem em romance.txt, separados por ’,’ (vírgula).
